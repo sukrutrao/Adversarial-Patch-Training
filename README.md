@@ -1,10 +1,10 @@
-# Adversarial Training against Location-Optimized Adversarial Patches
+# Adversarial Training Against Location-Optimized Adversarial Patches
 
-[arXiv](https://arxiv.org/abs/2005.02313) | [Code](https://github.com/sukrutrao/adversarial-patch-training) 
+[arXiv](https://arxiv.org/abs/2005.02313) | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_32) | [Code](https://github.com/sukrutrao/adversarial-patch-training) | [Video](https://www.youtube.com/watch?v=Qkszh-wYWoY) | [Slides](https://sukrutrao.github.io/project/adversarial-patch-training/AdversarialTrainingAgainstLocationOptimizedAdversarialPatches_Slides.pdf)
 
 Code for the paper:
 
-Sukrut Rao, David Stutz, Bernt Schiele. Adversarial Training against Location-Optimized Adversarial Patches. ECCV CVCOPS 2020 (to appear).
+Sukrut Rao, David Stutz, Bernt Schiele. (2020) Adversarial Training Against Location-Optimized Adversarial Patches. In: Bartoli A., Fusiello A. (eds) Computer Vision – ECCV 2020 Workshops. ECCV 2020. Lecture Notes in Computer Science, vol 12539. Springer, Cham. https://doi.org/10.1007/978-3-030-68238-5_32
 
 ## Setup
 
@@ -142,10 +142,15 @@ Please cite the paper as follows:
 ```
 @InProceedings{Rao2020Adversarial,
 author = {Sukrut Rao and David Stutz and Bernt Schiele},
-title = {Adversarial Training against Location-Optimized Adversarial Patches},
-booktitle = {Proceedings of the European Conference on Computer Vision (ECCV) Workshops},
-year = {2020}
-} 
+title = {Adversarial Training Against Location-Optimized Adversarial Patches},
+booktitle = {Computer Vision -- ECCV 2020 Workshops},
+year = {2020},
+editor = {Adrien Bartoli and Andrea Fusiello},
+publisher = {Springer International Publishing},
+address = {Cham},
+pages = {429--448},
+isbn = {978-3-030-68238-5}
+}
 ```
 
 ## Acknowledgement
