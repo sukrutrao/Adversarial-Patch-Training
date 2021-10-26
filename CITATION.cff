@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite the paper as below."
+preferred-citation:
+  authors:
+    - family-names: Rao
+      given-names: Sukrut
+      orcid: "https://orcid.org/0000-0001-8896-7619"
+    - family-names: Stutz
+      given-names: David
+      orcid: "https://orcid.org/0000-0002-6286-1805"
+    - family-names: Schiele
+      given-names: Bernt
+      orcid: "https://orcid.org/0000-0001-9683-5237"
+  title: "Adversarial Training Against Location-Optimized Adversarial Patches"
+  type: conference-paper
+  collection-title: "Computer Vision -- ECCV 2020 Workshops"
+  year: 2020
+  editors: 
+    - family-names: Bartoli
+      given-names: Adrien
+    - family-names: Fusiello
+      given-names: Andrea
+  publisher: Springer International Publishing
+  address: Cham
+  start: 429
+  end: 448
+  isbn: 978-3-030-68238-5
+  doi: 10.1007/978-3-030-68238-5_32
